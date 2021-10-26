@@ -89,7 +89,7 @@ class Adduser extends React.Component {
         
       });
       data.append("image", this.state.fileData);
-      fetch("https://back-end-login.herokuapp.com/single", {
+      fetch("https://git.heroku.com/back-end-login.git/single", {
         method: "POST",
         body: data,
       })
