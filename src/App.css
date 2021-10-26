@@ -1,0 +1,32 @@
+.home {
+    margin-top: 100px;
+    
+}
+
+.Color {
+    color: #007bff;
+}
+
+p {
+    color: #29505B;
+}
+
+.nav-link {
+    color: white;
+}
+
+.add {
+    color: #007bff;
+    font-size: 25px;
+}
+.img {
+    
+    position: absolute;
+ 
+    border: 1px solid #ddd;
+    padding: 1px;
+    width: 250px;
+    height: 250px;
+  }
+
+  
